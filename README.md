@@ -55,7 +55,7 @@ vagrant destroy
 * Not beginner friendly setup
 * Deprecated vagrant-omnibus plugin
 * kube cookbook does not support latest chef version
-* kube cookbook supports up to chef version 16.0
+* kube cookbook supports up to chef version <= 16.0.x
 * Open bug https://github.com/hashicorp/vagrant/issues/12337
 * Manual adding of cookbooks (Will use Berkshelf in the future)
 * Require further read up on chef and cookbook
