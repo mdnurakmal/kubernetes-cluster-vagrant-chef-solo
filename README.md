@@ -47,6 +47,7 @@ vagrant destroy
 ```
 # Learning objective
 * Difference between chef-solo , chef-zero , chef-infra
+* Basics of chef-solo and hands-on practice
 
 # Learning Points
 * Difficulty understanding the usage of kube cookbook to make any modifications
