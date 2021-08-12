@@ -1,5 +1,5 @@
 
-# Automatically create kubernetes cluster using vagrant , virtualbox , chef
+# Automatically create kubernetes cluster using vagrant , virtualbox , chef-solo
 
 # Development Environment
 - Windows 10
