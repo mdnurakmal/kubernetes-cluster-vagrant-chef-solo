@@ -1,5 +1,5 @@
 
-# Automatically create kubernetes cluster (1 Master and 2 node) using vagrant , virtualbox , chef
+# Automatically create kubernetes cluster using vagrant , virtualbox , chef
 
 # Development Environment
 - Windows 10
