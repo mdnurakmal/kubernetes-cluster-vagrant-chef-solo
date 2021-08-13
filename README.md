@@ -59,6 +59,7 @@ vagrant destroy
 * Open issue - https://github.com/hashicorp/vagrant/issues/12337
 * Manual adding of cookbooks (Will use Berkshelf in the future)
 * Require further read up on chef and cookbook
+* Unable to run kubectl from chef-solo vm (To be revisited)
 
 # References
 * https://github.com/aespinosa/cookbook-kube
