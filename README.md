@@ -60,6 +60,7 @@ vagrant destroy
 * Manual adding of cookbooks (Will use Berkshelf in the future)
 * Require further read up on chef and cookbook
 * Unable to run kubectl from chef-solo vm (To be revisited)
+* Instead of having to provision 3 VMs manually inside vagrantfile , we can use kube cookbook to help us manage the provisioning of the required VMs
 
 # References
 * https://github.com/aespinosa/cookbook-kube
