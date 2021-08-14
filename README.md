@@ -50,6 +50,7 @@ vagrant destroy
 * Basics of chef-solo and hands-on practice
 
 # Learning Points
+* Vagrant default provider is virtualbox
 * Difficulty understanding the usage of kube cookbook to make any modifications
 * Unfamiliarity with ruby language
 * Not beginner friendly setup
